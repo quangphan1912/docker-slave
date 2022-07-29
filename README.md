@@ -1,1 +1,9 @@
-# docker-slave-maven
+############# Build ###########
+
+cmd build.bat
+
+############# Run ###########
+
+cd management
+
+cmd launch.bat
